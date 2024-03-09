@@ -1,2 +1,4 @@
 # bmth
 //waifu
+a == waifu;
+
