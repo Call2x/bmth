@@ -1,4 +1,4 @@
 # bmth
 //waifu
 a == waifu;
-p == a+love
+p == a+love;
